@@ -92,6 +92,3 @@ Enter the Ticker of the Company: AAPL
 ## Author
 
 Eshan Potdar
-
-Computer Science Student, NJIT
-
